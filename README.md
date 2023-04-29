@@ -1,10 +1,4 @@
 # YoloV5_DivisionFood
-
-
-RES_DIR = set_res_dir()
-if TRAIN:
-    !python train.py --data ../data.yaml --weights yolov5s.pt \
-    --img 640 --epochs {EPOCHS} --batch-size 16 --name {RES_DIR}
     
     
 Result
