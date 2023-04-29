@@ -1,7 +1,7 @@
 # YoloV5_DivisionFood
 
 ### 프로젝트
-In "Google Colab"
+**"Google Colab"**<br/>
 https://colab.research.google.com/drive/150NkD4UzFKGPOmzkXWw73CAPfefE13gs?hl=ko#scrollTo=jwF6QXAYoifY
 
 ---
